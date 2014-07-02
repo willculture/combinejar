@@ -1,0 +1,2 @@
+combinejar是eclipse的一个插件<br>
+主要功能是将多个jar文件合并为一个jar文件
